@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.bootJpa.dao.AlienRepo;
-
+//fine programee
 //@RestController // restapi banaunako lagi
 @Controller// servlet banaunako lagi
 public class AlienController {
